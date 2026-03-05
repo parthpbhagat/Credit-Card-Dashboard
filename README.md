@@ -52,3 +52,9 @@ This Power BI project analyzes credit card transactions and customer data to ext
 
 ## 📁 File Structure
 
+
+👨‍💻 Author
+Parth Bhagat
+Data Analyst Intern at Unified Mentor
+📧 parthpbhagat@gmail.com 
+🌐 https://www.linkedin.com/in/parth-p-bhagat-203162369/
